@@ -34,6 +34,10 @@ echo "USER: ".$_SESSION["LoginEmail"]."<br>";
 <button type="submit">Manage Tagx</button>
 </form>
 
+<form action="createFriendGroup.php" method="">
+<button type="submit">Create Friend Group</button>
+</form>
+
 <form action="addFriend.php" method="">
 <button type="submit">Add Friend</button>
 </form>
